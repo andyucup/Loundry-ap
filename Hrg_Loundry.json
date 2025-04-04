@@ -1,5 +1,5 @@
 [
-  { "nama": "Cuci Kering", "harga": 5000 },
-  { "nama": "Cuci Basah", "harga": 4000 },
-  { "nama": "Setrika", "harga": 3000 }
+  { "nama": "Cuci Kering", "harga": 10000 },
+  { "nama": "Cuci Basah", "harga": 5000 },
+  { "nama": "Setrika", "harga": 15000 }
 ]
